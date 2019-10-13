@@ -109,14 +109,21 @@ y elementos de pie de página en el elemento del cuerpo para que esta página te
 lista de navegación y pie de página utilizados en la página de inicio. Inserte un elemento de artículo entre el
 encabezado y pié de página.
 
+
 9. Regrese al archivo mp_pages.txt en su editor de texto y copie el contenido del Mobile Panini
 menú. Luego, vaya al archivo mp_menu.html en su editor HTML y pegue el texto copiado en
 el elemento del artículo.
 
 10. Dentro del elemento del artículo del archivo mp_menu.htm, haga lo siguiente:
-a. Marque el título del texto Nuestro menú como un encabezado h1.
-si. Incluya los elementos del menú en una lista de descripción con el nombre de cada elemento del menú marcado con
-el elemento dt y cada descripción de menú marcada con el elemento dd.
+	a. Marque el título del texto Nuestro menú como un encabezado h1.
+		<h1>Our Menu</h1> 
+
+	b. Incluya los elementos del menú en una lista de descripción con el nombre de cada elemento del menú marcado con
+	el elemento dt y cada descripción de menú marcada con el elemento dd.
+		<dt>Salsiccia Panini</dt>
+		<dd>Home made Italian sausage roasted bell peppers and spicy 
+		pecorino cheese on freshly-baked ciabbatta bread ($7.95)</dd>
+
 
 11. Guarde sus cambios en el archivo mp_menu.html. Abra la página en su navegador y verifique que cada
 el nombre del elemento del menú aparece en negrita y está separado de la descripción del elemento sangrado por un
@@ -132,11 +139,16 @@ El texto copiado en el elemento del artículo.
 
 14. Dentro del elemento del artículo, haga lo siguiente:
 	a. Marque el texto ¿Dónde estamos esta semana? como un encabezado h1.
+
+
 	b. Incluya el valor de los eventos de cada día dentro de un elemento div (o división) separado.
+
+
 	c. Dentro de cada una de las divisiones de siete días, incluya el día y la fecha como un encabezado h1. Encerrar
 	 La ubicación dentro de un elemento de párrafo. Inserte un elemento de salto de línea, <br />, directamente
 	 antes de la hora del evento para que cada intervalo de tiempo se muestre en una nueva línea dentro del
 	 párrafo.
+
 15. Guarde sus cambios en el archivo mp_events.html. Abra la página en su navegador y verifique que cada
 El evento de calendario aparece en su propio cuadro con el día y la fecha representados como un encabezado.
 

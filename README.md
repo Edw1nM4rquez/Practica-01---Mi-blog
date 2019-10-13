@@ -57,19 +57,29 @@ texto copiado en el elemento del artículo.
 
 6. Dentro del elemento del artículo, haga lo siguiente:
 	a. Marque la línea de bienvenida como un encabezado h1.
+		<h1>Welcome</h1>
+
 	b. Debajo del elemento h1, inserte una imagen en línea que contenga el archivo mp_photo1.png con un
 	 cadena de texto vacía para el texto alternativo.
+		 <img src="mp_photo1.png" alt=" " />
+	
 	c. Marque los siguientes cinco párrafos como párrafos usando el elemento p. Dentro del primer párrafo,
 	 marque el texto Mobile Panini como texto fuerte. Dentro del tercer párrafo marque el texto
 	 Curbside Thai como texto enfatizado.
+		
+
 	d. El cuarto párrafo contiene el número de teléfono de Mobile Panini. Marque el número de teléfono como
 	 un enlace telefónico y asegúrese de incluir el código internacional en la URL. Tenga en cuenta que esto
 	 el número es ficticio, por lo tanto, si tiene acceso a un navegador móvil y desea probar el enlace, usted
 	 Es posible que desee reemplazar este número con su número de teléfono.
+		
+
 	e. El quinto párrafo contiene la dirección de correo electrónico de Mobile Panini. Marcar la dirección de correo electrónico como
 	 Un enlace de hipertexto. Una vez más, tenga en cuenta que esta dirección de correo electrónico es ficticia, por lo tanto, si desea
 	 para probar este enlace, deberá reemplazar la dirección de correo electrónico de Mobile Panini con su
 	 dirección de correo electrónico.
+		
+
 
 7. Guarde sus cambios en el archivo y luego abra el archivo mp_index.html en su navegador. Verificalo
 El diseño y la apariencia de la página se parecen a los que se muestran en la Figura 1-45. Si es posible, pruebe el

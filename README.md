@@ -66,7 +66,7 @@ texto copiado en el elemento del artículo.
 	c. Marque los siguientes cinco párrafos como párrafos usando el elemento p. Dentro del primer párrafo,
 	 marque el texto Mobile Panini como texto fuerte. Dentro del tercer párrafo marque el texto
 	 Curbside Thai como texto enfatizado.
-
+		
 	<p><Strong>Mobile Panini</Strong> is the culmination of the dream of
   	Antonio and Carmen Dolcini, who came to America 
   	looking to serve people the authentic recipes learned 
@@ -85,17 +85,18 @@ texto copiado en el elemento del artículo.
 	or delicacy of preparation. We've partnered with Curbside Thai to
 	bring you the finest cuisine on four wheels - from the East and the West!</p>
 
+
 	d. El cuarto párrafo contiene el número de teléfono de Mobile Panini. Marque el número de teléfono como
 	 un enlace telefónico y asegúrese de incluir el código internacional en la URL. Tenga en cuenta que esto
 	 el número es ficticio, por lo tanto, si tiene acceso a un navegador móvil y desea probar el enlace, usted
 	 Es posible que desee reemplazar este número con su número de teléfono.
-		 <p>Call: <a href="tel:0983364721">(07) 225-4778</a> </p>
+		<p>Call: <a href="tel: +0983364721">(07) 225-4778</a> </p>
 
 	e. El quinto párrafo contiene la dirección de correo electrónico de Mobile Panini. Marcar la dirección de correo electrónico como
 	 Un enlace de hipertexto. Una vez más, tenga en cuenta que esta dirección de correo electrónico es ficticia, por lo tanto, si desea
 	 para probar este enlace, deberá reemplazar la dirección de correo electrónico de Mobile Panini con su
 	 dirección de correo electrónico.
-		<p>Email: <a href="mail:edwinM@ejemplo.com">edwinM@ejemplo.com</a></p>		
+		<p>Email: <a href="mail:edwinM@ejemplo.com">edwinM@ejemplo.com</a></p>
 
 
 7. Guarde sus cambios en el archivo y luego abra el archivo mp_index.html en su navegador. Verificalo

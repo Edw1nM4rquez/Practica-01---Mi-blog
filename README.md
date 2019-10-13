@@ -161,7 +161,7 @@ Luego, vaya al archivo mp_catering.html en su editor HTML y pegue el encabezado 
 elementos en el elemento del cuerpo. Inserte un elemento de artículo entre el encabezado y el pie de página y
 luego inserte un elemento aparte dentro del artículo.
 
-17. Directly after the opening <article> tag, insert an h1 element containing the text Catering.
+17. Inmediatamente después de la etiqueta <article> de apertura, inserte un elemento h1 que contenga el texto Catering.
 
 
 18. Regrese al archivo mp_pages.txt en su editor de texto y copie el texto sobre la cocina móvil,

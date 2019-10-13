@@ -31,7 +31,15 @@ mp_events.html y mp_catering.html respectivamente.
 	b. Una lista de navegación que contiene una lista desordenada con los siguientes elementos de la lista: Inicio, Menú,
 	Eventos y Catering. Enlace los elementos a mp_index.html, mp_menu.html, mp_events.html,
 	y archivos mp_catering.html respectivamente.
-
+		<nav>
+		<ul>
+    		<li><a href="mp_index_txt.html">Index</a></li>
+		<li><a href="mp_menu_txt.html">Menu</a></li>
+		<li><a href="mp_events.html">Events</a></li>
+		<li><a href="mp_catering.html">Catering</a></li>
+		</ul>
+		</nav>
+	
 4. Debajo del elemento de encabezado, inserte un elemento de artículo. Debajo del elemento del artículo, inserte un
 elemento de pie de página que contiene el siguiente texto:
 Mobile Panini 31 West Avenue, Charlotte NC 28204704-555-2188

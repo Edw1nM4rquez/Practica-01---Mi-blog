@@ -8,13 +8,26 @@ mp_events.html y mp_catering.html respectivamente.
 
 2.Vaya al archivo mp_index.html en su editor HTML. Dentro del encabezado del documento, haga lo siguiente:
 	a. Use el metaelemento para establecer la codificación de caracteres del archivo en utf-8.
-	b. Agregue las siguientes palabras clave de búsqueda al documento: italiano, móvil, comida y Charlotte.
+		<meta charset="utf-8" />
+
+	b. Agregue las siguientes palabras clave de búsqueda al documento: Italian, Mobile, Food y Charlotte.
+		<meta name="keywords" content"Italian, Mobile, Food, Charlotte" /> 
+
+
 	c. Establezca el título del documento en Mobile Panini.
+		<title>Mobile Panini</title>
+
+
 	d. Enlace el documento a los archivos de hoja de estilo mp_base.css y mp_layout.css.
+		<link href="mp_base.css" rel="stylesheet" /> 
+		<link href="mp_layout2.css" rel="stylesheet" />
+
 
 3. Vaya al cuerpo del documento e inserte un elemento de encabezado que contenga lo siguiente:
 	a. Una imagen en línea del archivo mp_logo.png con el texto alternativo Mobile Panini. marca el
 	imagen como un enlace de hipertexto que apunta al archivo mp_index.html.
+		<a href="mp_index_txt.html"><img src="mp_logo.png" alt="Mobile Panini" /></a>
+
 	b. Una lista de navegación que contiene una lista desordenada con los siguientes elementos de la lista: Inicio, Menú,
 	Eventos y Catering. Enlace los elementos a mp_index.html, mp_menu.html, mp_events.html,
 	y archivos mp_catering.html respectivamente.

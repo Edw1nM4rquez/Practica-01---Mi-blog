@@ -162,7 +162,7 @@ elementos en el elemento del cuerpo. Inserte un elemento de artículo entre el e
 luego inserte un elemento aparte dentro del artículo.
 
 17. Inmediatamente después de la etiqueta <article> de apertura, inserte un elemento h1 que contenga el texto Catering.
-
+		<h1> Catering</h1>
 
 18. Regrese al archivo mp_pages.txt en su editor de texto y copie el texto sobre la cocina móvil,
 incluido el encabezado. Luego, vaya al archivo mp_catering.html en su editor HTML y pegue el
@@ -170,7 +170,15 @@ texto copiado en el elemento aparte.
 
 19. Dentro del elemento del artículo, haga lo siguiente:
 	a. Marque el texto Acerca de la cocina móvil como un encabezado h1.
+		<h1>About the Mobile Kitchen</h1>
+
 	b. Marque los siguientes dos párrafos como párrafos.
+		<p>After many years of planing and saving, Mobile Panini hit the road,
+                literally, with the purchase of a 2007 Chevy P90 that we rescued
+                from its moribund existence as a dirty diaper van. After a
+                thorough cleaning (trust us!) the van was retrofitted into a
+                classic commercial kitchen with state-of-the art equipment.</p>
+		
 
 20. Regrese al archivo mp_pages.txt en su editor de texto y copie el texto que describe Mobile Panini's
 oportunidades de catering; No copie el cabezal de catering. Luego, vaya al archivo mp_catering.html en
@@ -178,9 +186,30 @@ su editor HTML y pegue el texto copiado directamente después del elemento apart
 
 21. Realice las siguientes ediciones en el texto pegado:
 	a. Marque los dos primeros párrafos como párrafos.
+		<p>After many years of planing and saving, Mobile Panini hit the road,
+                literally, with the purchase of a 2007 Chevy P90 that we rescued
+                from its moribund existence as a dirty diaper van. After a
+                thorough cleaning (trust us!) the van was retrofitted into a
+                classic commercial kitchen with state-of-the art equipment.</p>
+		<p> The 22' kitchen allows us to accommodate all demands, ranging
+                from large corporate catering events to private dining parties.
+                Just save us a parking space.</p>
+
 	b. Adjunte la lista de las seis posibilidades de catering dentro de una lista desordenada con cada elemento marcado
 	 como un elemento de la lista.
+	 <ul>
+                <li>Weddings</li>
+                <li>Fund raisers</li>
+                <li>Athletic Events</li>
+                <li>Birthday Parties</li>
+                <li>Sales Events</li>
+                <li>... and much more!</li>
+            </ul>	
+
 	c. Marque el párrafo final como un párrafo.
+		<p>Choose from our standard catering menu or call us to develop a
+           	customized menu for your special party or event. We're fast and
+            	we're flexible.</p>
 
 22. Guarde sus cambios en el archivo mp_catering.html. Abra la página en su navegador y verifique que
 La información sobre la cocina móvil aparece como una barra lateral en el borde derecho del artículo.

@@ -143,12 +143,15 @@ El texto copiado en el elemento del artículo.
 		 <h1>Where Are We This Week?</h1>
 
 	b. Incluya el valor de los eventos de cada día dentro de un elemento div (o división) separado.
-		
+		 <div><h1>Monday 9/14</h1>
+            	 <p>247 Park Rd., Charlotte <br>(11 a.m. - 6 p.m.)</p></div>
 
 	c. Dentro de cada una de las divisiones de siete días, incluya el día y la fecha como un encabezado h1. Encerrar
 	 La ubicación dentro de un elemento de párrafo. Inserte un elemento de salto de línea, <br />, directamente
 	 antes de la hora del evento para que cada intervalo de tiempo se muestre en una nueva línea dentro del
 	 párrafo.
+		<div><h1>Tuesday 9/15</h1>
+            	<p>13 North Dr., Cornelius <br>(11 a.m. - 9 p.m.)</p></div>
 
 15. Guarde sus cambios en el archivo mp_events.html. Abra la página en su navegador y verifique que cada
 El evento de calendario aparece en su propio cuadro con el día y la fecha representados como un encabezado.

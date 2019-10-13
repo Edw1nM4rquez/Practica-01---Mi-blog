@@ -45,11 +45,15 @@ elemento de pie de página que contiene el siguiente texto:
 Mobile Panini 31 West Avenue, Charlotte NC 28204704-555-2188
   donde se inserta utilizando el código de caracteres 9832 y se agrega un espacio adicional entre NC y
 28204 usando el nombre del personaje nbsp.
+ 	<footer>
+ 	Mobile Panini &#9832; 31 West Avenue, Charlotte NC &nbsp; 28204 &#9832; 704-555-2188
+ 	</footer>
 
 5. Vaya al archivo mp_pages.txt en su editor de texto. Este archivo contiene el contenido de texto de los cuatro
 páginas en el sitio web de Mobile Panini. Copie el texto de la sección de bienvenida, que se utilizará
 en la página de inicio del sitio web. Regrese a mp_index.html en su editor HTML y pegue el
 texto copiado en el elemento del artículo.
+
 
 6. Dentro del elemento del artículo, haga lo siguiente:
 	a. Marque la línea de bienvenida como un encabezado h1.

@@ -120,6 +120,7 @@ el elemento del artículo.
 
 	b. Incluya los elementos del menú en una lista de descripción con el nombre de cada elemento del menú marcado con
 	el elemento dt y cada descripción de menú marcada con el elemento dd.
+		
 		<dt>Salsiccia Panini</dt>
 		<dd>Home made Italian sausage roasted bell peppers and spicy 
 		pecorino cheese on freshly-baked ciabbatta bread ($7.95)</dd>
@@ -139,10 +140,10 @@ El texto copiado en el elemento del artículo.
 
 14. Dentro del elemento del artículo, haga lo siguiente:
 	a. Marque el texto ¿Dónde estamos esta semana? como un encabezado h1.
-
+		 <h1>Where Are We This Week?</h1>
 
 	b. Incluya el valor de los eventos de cada día dentro de un elemento div (o división) separado.
-
+		
 
 	c. Dentro de cada una de las divisiones de siete días, incluya el día y la fecha como un encabezado h1. Encerrar
 	 La ubicación dentro de un elemento de párrafo. Inserte un elemento de salto de línea, <br />, directamente

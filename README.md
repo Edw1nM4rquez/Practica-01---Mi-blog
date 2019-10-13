@@ -35,8 +35,8 @@ mp_events.html y mp_catering.html respectivamente.
 		<ul>
     		<li><a href="mp_index_txt.html">Index</a></li>
 		<li><a href="mp_menu_txt.html">Menu</a></li>
-		<li><a href="mp_events.html">Events</a></li>
-		<li><a href="mp_catering.html">Catering</a></li>
+		<li><a href="mp_events_txt.html">Events</a></li>
+		<li><a href="mp_catering_txt.html">Catering</a></li>
 		</ul>
 		</nav>
 	
